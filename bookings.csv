@@ -1,0 +1,39 @@
+id,resource_id,requester,role,purpose,date,start,end,capacity,status,created_at
+B001,LAB-401,Prof. Sharma,Faculty,Club meeting,2026-11-30,10:00,11:30,27,Confirmed,2026-11-24T09:48:31
+B002,LH-102,Prof. Sharma,Faculty,Robotics demo,2026-11-26,16:00,18:00,16,Confirmed,2026-11-24T09:48:31
+B003,LH-201,Ananya K.,Student Club,Lab exam,2026-11-30,14:00,16:00,19,Confirmed,2026-11-24T09:48:31
+B004,LAB-401,Dr. Rao,Faculty,Revision class,2026-11-26,11:30,13:00,25,Confirmed,2026-11-24T09:48:31
+B005,SH-02,Ananya K.,Student Club,Guest talk,2026-11-27,18:00,20:00,50,Confirmed,2026-11-24T09:48:31
+B006,LAB-301,Rahul M.,Student Rep,Placement drive,2026-11-28,10:00,11:30,12,Pending,2026-11-24T09:48:31
+B007,LH-201,Admin Office,Staff,Thesis defence,2026-11-25,18:00,20:00,23,Confirmed,2026-11-24T09:48:31
+B008,LAB-401,Dr. Iyer,Faculty,Guest talk,2026-11-28,16:00,18:00,28,Confirmed,2026-11-24T09:48:31
+B009,SH-01,Dr. Iyer,Faculty,Placement drive,2026-11-29,11:30,13:00,78,Confirmed,2026-11-24T09:48:31
+B010,LAB-302,Dr. Rao,Faculty,Placement drive,2026-11-27,11:30,13:00,31,Confirmed,2026-11-24T09:48:31
+B011,SH-02,Dr. Iyer,Faculty,Robotics demo,2026-11-29,18:00,20:00,33,Conflict Flagged,2026-11-24T09:48:31
+B012,SH-02,Prof. Sharma,Faculty,Club meeting,2026-11-30,10:00,11:30,10,Pending,2026-11-21T10:48:31
+B013,SH-01,Dr. Rao,Faculty,Python workshop,2026-11-28,16:00,18:00,29,Confirmed,2026-11-24T09:48:31
+B014,SH-01,Dr. Iyer,Faculty,Python workshop,2026-11-26,14:00,16:00,37,Confirmed,2026-11-24T09:48:31
+B015,LH-102,Rahul M.,Student Rep,Robotics demo,2026-11-26,08:00,10:00,44,Confirmed,2026-11-24T09:48:31
+B016,LH-101,Admin Office,Staff,Guest talk,2026-11-30,11:30,13:00,12,Confirmed,2026-11-24T09:48:31
+B017,LH-102,Prof. Sharma,Faculty,Club meeting,2026-11-26,11:30,13:00,78,Confirmed,2026-11-24T09:48:31
+B018,LAB-301,Prof. Sharma,Faculty,Lab exam,2026-11-28,16:00,18:00,39,Pending,2026-11-24T09:48:31
+B019,LAB-401,Ananya K.,Student Club,Placement drive,2026-11-28,11:30,13:00,24,Confirmed,2026-11-24T09:48:31
+B020,LH-201,Rahul M.,Student Rep,Guest talk,2026-11-28,16:00,18:00,59,Confirmed,2026-11-24T09:48:31
+B021,LH-201,Dr. Iyer,Faculty,Robotics demo,2026-11-24,10:00,11:30,45,Confirmed,2026-11-24T09:48:31
+B022,LH-102,Dr. Iyer,Faculty,Club meeting,2026-11-28,14:00,16:00,36,Confirmed,2026-11-24T09:48:31
+B023,LH-101,Prof. Sharma,Faculty,Lab exam,2026-11-27,18:00,20:00,92,Conflict Flagged,2026-11-24T09:48:31
+B024,LAB-302,Rahul M.,Student Rep,Club meeting,2026-11-24,16:00,18:00,31,Pending,2026-11-21T10:48:31
+B025,LH-102,Ananya K.,Student Club,Data Structures lecture,2026-11-29,14:00,16:00,87,Confirmed,2026-11-24T09:48:31
+B026,LH-102,Prof. Sharma,Faculty,Revision class,2026-11-29,10:00,11:30,40,Confirmed,2026-11-24T09:48:31
+B027,LH-101,Ananya K.,Student Club,Robotics demo,2026-11-28,14:00,16:00,112,Confirmed,2026-11-24T09:48:31
+B028,LAB-401,Ananya K.,Student Club,Python workshop,2026-11-25,10:00,11:30,28,Confirmed,2026-11-24T09:48:31
+B029,LAB-302,Admin Office,Staff,Lab exam,2026-11-24,08:00,10:00,21,Confirmed,2026-11-24T09:48:31
+B030,LAB-401,Dr. Iyer,Faculty,Thesis defence,2026-11-26,16:00,18:00,14,Pending,2026-11-24T09:48:31
+B031,LAB-301,Admin Office,Staff,Guest talk,2026-11-27,11:30,13:00,11,Confirmed,2026-11-24T09:48:31
+B032,SH-02,Rahul M.,Student Rep,Revision class,2026-11-24,18:00,20:00,29,Confirmed,2026-11-24T09:48:31
+B033,LH-201,Admin Office,Staff,Python workshop,2026-11-29,08:00,10:00,18,Confirmed,2026-11-24T09:48:31
+B034,LAB-301,Admin Office,Staff,Revision class,2026-11-25,10:00,11:30,32,Confirmed,2026-11-24T09:48:31
+B035,LH-102,Prof. Sharma,Faculty,Placement drive,2026-11-24,08:00,10:00,26,Confirmed,2026-11-24T09:48:31
+B036,LAB-401,Dr. Rao,Faculty,Thesis defence,2026-11-30,14:00,16:00,26,Pending,2026-11-21T10:48:31
+B037,LH-101,Admin Office,Staff,Club meeting,2026-11-26,14:00,16:00,11,Confirmed,2026-11-24T09:48:31
+B038,LAB-401,Dr. Rao,Faculty,Guest talk,2026-11-25,14:00,16:00,24,Confirmed,2026-11-24T09:48:31
