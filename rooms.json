@@ -1,0 +1,7 @@
+{
+  "LH-101": { "name": "Lecture Hall 101", "category": "Lecture Hall", "capacity": 60 },
+  "LH-102": { "name": "Lecture Hall 102", "category": "Lecture Hall", "capacity": 60 },
+  "LAB-201": { "name": "AI & Data Science Lab", "category": "Computer Lab", "capacity": 40 },
+  "LAB-305": { "name": "Full Stack Dev Lab", "category": "Computer Lab", "capacity": 45 },
+  "SEMINAR-A": { "name": "Main Seminar Hall", "category": "Seminar Hall", "capacity": 120 }
+}
